@@ -1,14 +1,19 @@
-This turorial informed our approach to how we integrated timer functionality into the code challenge feature. Our approach was to build this demo, develop an understanding of its functionality, and then integrate the lessons learned into our code. 
+# Timer Tutorial
 
+This turorial informed our approach to how we integrated timer functionality into the code challenge feature. Our approach was to build this demo, develop an understanding of its functionality, and then integrate the lessons learned into our code.
 
-## Using Alexa Timers with Voice Permissions:
-	
-#### Video:
+## Using Alexa Timers with Voice Permissions
+
+### Video
+
 [DabbleLabs Turorial Video](https://www.youtube.com/watch?v=2QpS2UtG2yQ)
-#### Demo Code:
+
+### Demo Code
+
 [Dabble Labs Tutorial Demo Code](https://dabblelab.com/templates/19-alexa-timers-example-skill)
 
-#### Timestamped Contents of the Video:
+### Timestamped Contents of the Video
+
 3:00: Go to the JSON editor and replace the Interaction Model with the one that’s in the template
 
 3:30: Provide the skill with access to the timers
