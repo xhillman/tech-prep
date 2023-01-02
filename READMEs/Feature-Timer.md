@@ -4,7 +4,7 @@
 
 ## User Story
 
-> As a user I want Alexa to set timer to mimic the limited time available to complete w hiteboard interview.
+> As a user I want Alexa to set timer to mimic the limited time available to complete whiteboard interview.
 
 ## Resources
 
